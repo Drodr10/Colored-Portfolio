@@ -1,0 +1,17 @@
+
+h1{
+    color: aliceblue;
+}
+
+* {
+    background-color: darkgoldenrod;
+}
+
+.holder {
+    text-shadow: 1px 1px indianred;
+}
+
+.angry {
+    justify-content: center;
+    display: flex;
+}
